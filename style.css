@@ -3,3 +3,8 @@ body {
 	font-family: Helvetica;
 	align-items: center;
 }
+
+#main {
+	background-size: cover;
+	/*text-align: center;*/
+}
